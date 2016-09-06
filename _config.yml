@@ -1,16 +1,13 @@
 baseurl: /jekyll_demo
 
-<<<<<<< HEAD
 # Site settings
 title: Gravity
 email: hemangsk@gmail.com
 description: The Liberal Jekyll Theme
 baseurl: /jekyll_demo
 url: "https://israining.github.com/jekyll_demo/" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
+twitter_username: yu478435363
 github_username:  israining
 
 # Build settings
 markdown: kramdown
-=======
->>>>>>> parent of 27ba98b... 更换模版
